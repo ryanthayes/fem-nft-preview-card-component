@@ -94,6 +94,8 @@ a:focus {
     color: var(--clr-accent-400);
 }
 
+/*=== CARD STYLES ===*/
+
 .nft-card {
     display: flex;
     flex-direction: column;
