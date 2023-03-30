@@ -100,7 +100,7 @@ a:focus {
     display: flex;
     flex-direction: column;
     gap: 1em;
-    padding: .75rem;
+    padding: 1.5rem;
     max-width: 22rem;
     background-color: var(--clr-neutral-500);
     border-radius: 1rem;
